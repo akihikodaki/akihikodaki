@@ -23,6 +23,7 @@ I'm a human so I have human characteristics (e.g. I operate best in 20-30 celsiu
 - I'm kind of a low-level programmer and familiar with C language. I ocasionally wrote MIPS, ARM, and C++. I read x86-64 for debugging but my understanding is kind of fragile.
 - I have some knowledge of UI programming paradigms since I learned them to build [Mux](https://github.com/pixiv/Mux), a UI programming thing for Unity, and coded some Web applications.
 - I use GNU/Linux with GNOME.
+- I prefer to work in a team because humans are interesting by nature and a team also helps me determine my role. However, it is also fine for me to work alone.
 - I do any kind of programming if I'm sufficiently motivated.
 - I'm from Ibaraki.
 - I love chocolate.
@@ -34,6 +35,7 @@ I'm a human so I have human characteristics (e.g. I operate best in 20-30 celsiu
 I was a occasional FLOSS contributer.
 
 - GNU binutils' ARM linker bug https://sourceware.org/git/?p=binutils-gdb.git;a=commit;h=5025eb7c0d87b01507116353b5d63b163d7add3d
+- elfutils improvements https://sourceware.org/git/?p=elfutils.git&a=search&h=35e49cac53a97ae6c51190c8e2d35a215e188bba&st=author&s=Akihiko+Odaki
 - ARM and EGL support for QtWebEngine https://code.qt.io/cgit/qt/qtwebengine.git/log/?qt=author&q=Akihiko+Odaki
 - buildroot https://git.buildroot.net/buildroot/log/?qt=grep&q=Akihiko+Odaki
 - Xamarin.Forms bug https://github.com/xamarin/Xamarin.Forms/pull/303
@@ -79,7 +81,7 @@ Technically I had never had the "On-the-Job Training", so I completed it by temp
 
 I was relocated for [pixiv Sketch](https://sketch.pixiv.net/) team. pixiv Sketch is a social network where users can casually post drawings (i.e. it is totally fine to post incomplete works). It has drawing tools and a live broadcast feature.
 
-I had any particular job to do, so I just did any technical things the others don't do.
+I had no particular job to do, so I just did any technical things the others don't do.
 
 pixiv Sketch had a *backend* server application providing RESTful APIs representing its resources and *frontends* providing the UI. Such a combination is called Backend-for-Frontend, or BFF. The backend was a Ruby on Rails application, and the frontends were Web, Android, and iOS applications.
 
