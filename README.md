@@ -111,6 +111,13 @@ The backend interacted with [MySQL](https://www.mysql.com/) and Redis. The Web f
 - Debugged WebRTC to understand some details of H.264 encoding negotiation.
 - Actually I still wrote some code and gave some advice for the drawing tool, utilizing my low-level knowledge.
 
+#### March, 2021
+
+I become an unemployed FLOSS contributor again.
+
+- QEMU https://gitlab.com/search?utf8=✓&search=Akihiko+Odaki&group_id=3038080&project_id=11167699&scope=commits&search_code=false&snippets=false&repository_ref=master&nav_source=navbar
+- virglrenderer https://gitlab.freedesktop.org/virgl/virglrenderer/-/merge_requests?scope=all&utf8=✓&state=all&author_username=akihiko.odaki
+
 ## My Name
 
 ### Akihiko (陽彦)
