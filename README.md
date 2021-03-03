@@ -6,8 +6,9 @@ If you thank me or something, just give a star on GitHub.
 If you have a question on this document, comment on GitHub.
 
 If you want to tell me anything else or if you don't want to use GitHub:
-- email akihiko.odaki@gmail.com or
-- mention [fn_aki@pawoo.net](https://pawoo.net/fn_aki) on Mastodon.
+- email to akihiko.odaki@gmail.com,
+- mention [fn_aki@pawoo.net](https://pawoo.net/fn_aki) on Mastodon or
+- send a message to [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) via Matrix.
 
 I have a Twitter account, but I may not be that active. https://twitter.com/aodaki
 
