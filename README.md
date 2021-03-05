@@ -119,6 +119,9 @@ I become an unemployed FLOSS contributor again.
 - QEMU https://gitlab.com/search?utf8=✓&search=Akihiko+Odaki&group_id=3038080&project_id=11167699&scope=commits&search_code=false&snippets=false&repository_ref=master&nav_source=navbar
 - virglrenderer https://gitlab.freedesktop.org/virgl/virglrenderer/-/merge_requests?scope=all&utf8=✓&state=all&author_username=akihiko.odaki
 
+Actually I'm working on QEMU on macOS. Especially I'm focusing on Virgil 3D, a bridge to expose host OpenGL to guest, and Apple Silicon/M1.
+https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5
+
 ## My Name
 
 ### Akihiko (陽彦)
