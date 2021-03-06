@@ -1,5 +1,11 @@
 # Akihiko Odaki (小田喜 陽彦)
 
+## Old identities
+
+- akihiko.odaki.4i@stu.hosei.ac.jp (when I was a student of Hosei University)
+- nekomanma@pixiv.com (the first email address I got at pixiv Inc.)
+- nekomanma@pixiv.co.jp (the second email address I got at pixiv Inc.)
+
 ## Telling Something to Me
 
 If you thank me or something, just give a star on GitHub.
