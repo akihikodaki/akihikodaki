@@ -13,8 +13,10 @@ If you have a question on this document, comment on GitHub.
 
 If you want to tell me anything else or if you don't want to use GitHub:
 - email to akihiko.odaki@gmail.com,
-- mention [fn_aki@pawoo.net](https://pawoo.net/fn_aki) on Mastodon or
-- send a message to [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) via Matrix.
+- mention [fn_aki@pawoo.net](https://pawoo.net/fn_aki) on Mastodon,
+- send a message to [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) via Matrix,
+- send a message to akihiko.odaki@gmail.com on Google Hangouts, or
+- aodaki#7967 on Discord.
 
 I have a Twitter account, but I may not be that active. https://twitter.com/aodaki
 
@@ -22,9 +24,7 @@ I'm kind of talkative so feel free.
 
 ## Availability
 
-I'm available for hiring.
-
-I'm currently unemployed for extra free time and I may require better conditions (e.g. fewer working hours, more salary to prolong my unemployed state, or something interesting especially for me). I encourage you to contact me if you are interested; even if I cannot immediately say "yes" for your offer, I may ask for a job in the future.
+I'm not available for hiring, but I encourage you to contact me if you are interested; even if I cannot immediately say "yes" for your offer, I may ask for a job in the future.
 
 ## Characteristics
 
