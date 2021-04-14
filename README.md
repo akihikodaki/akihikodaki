@@ -22,10 +22,6 @@ I have a Twitter account, but I may not be that active. https://twitter.com/aoda
 
 I'm kind of talkative so feel free.
 
-## Availability
-
-I'm not available for hiring, but I encourage you to contact me if you are interested; even if I cannot immediately say "yes" for your offer, I may ask for a job in the future.
-
 ## Characteristics
 
 I'm a human so I have human characteristics (e.g. I operate best in 20-30 celsius degree). Other charactersitics are:
