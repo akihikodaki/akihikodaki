@@ -47,6 +47,7 @@ I was a occasional FLOSS contributer.
 - elfutils improvements https://sourceware.org/git/?p=elfutils.git&a=search&h=35e49cac53a97ae6c51190c8e2d35a215e188bba&st=author&s=Akihiko+Odaki
 - ARM and EGL support for QtWebEngine https://code.qt.io/cgit/qt/qtwebengine.git/log/?qt=author&q=Akihiko+Odaki
 - buildroot https://git.buildroot.net/buildroot/log/?qt=grep&q=Akihiko+Odaki
+- Ruby bug https://bugs.ruby-lang.org/issues/13648
 - Xamarin.Forms bug https://github.com/xamarin/Xamarin.Forms/pull/303
 
 ### pixiv Inc.
