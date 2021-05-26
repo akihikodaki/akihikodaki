@@ -112,6 +112,7 @@ The backend interacted with [MySQL](https://www.mysql.com/) and Redis. The Web f
 - Introduced [Docker](https://www.docker.com) to the development and production environment.
 - Debugged Linux kernel to understand kernel panics.
 - Debugged Google Chrome to solve process crashes when using the live feature.
+- Debugged and patched Mozilla Firefox to fix CSRF. https://bugzilla.mozilla.org/show_bug.cgi?id=1605305
 - Debugged WebRTC to understand some details of H.264 encoding negotiation.
 - Actually I still wrote some code and gave some advice for the drawing tool, utilizing my low-level knowledge.
 
