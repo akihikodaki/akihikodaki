@@ -24,12 +24,12 @@ I'm kind of talkative so feel free.
 
 ## Characteristics
 
-I'm a human so I have human characteristics (e.g. I operate best in 20-30 celsius degree). Other charactersitics are:
+I'm a human so I have human characteristics (e.g. I operate best in 20-30 celsius degree). Other characteristics are:
 
 - I have never left Japan and am optimized for its environment. I'm a native Japanese speaker.
 - I have English language ability sufficient to write this.
 - I prefer FLOSS.
-- I'm kind of a low-level programmer and familiar with C language. I ocasionally wrote MIPS, ARM, and C++. I read x86-64 for debugging but my understanding is kind of fragile.
+- I'm kind of a low-level programmer and familiar with C language. I occasionally wrote MIPS, ARM, and C++. I read x86-64 for debugging but my understanding is kind of fragile.
 - I have some knowledge of UI programming paradigms since I learned them to build [Mux](https://github.com/pixiv/Mux), a UI programming thing for Unity, and coded some Web applications.
 - I use GNU/Linux with GNOME.
 - I prefer to work in a team because humans are interesting by nature and a team also helps me determine my role. However, it is also fine for me to work alone.
@@ -41,7 +41,7 @@ I'm a human so I have human characteristics (e.g. I operate best in 20-30 celsiu
 
 ### Before July, 2017
 
-I was a occasional FLOSS contributer.
+I was a occasional FLOSS contributor.
 
 #### Low-level
 
@@ -92,7 +92,7 @@ Speaking of Pawoo-specific feature development, I assisted the full-time workers
 I was relocated for developing [VRoid Studio](https://vroid.com/studio), a software to build humanoid 3D models without special expertise. My involvement began just before its first release. My focus was to improve the productivity of the team because the relocation was regarded as "temporal" in the first place.
 
 - Constructed and maintained a CI infrastructure with [Unity](https://unity.com), Linux, and [GitLab CI](https://docs.gitlab.com/ee/ci/). GitLab CI was managed by a colleague so I wrote application-specific code and communicated with him for the integration.
-- Designed and implemented [Mux](https://github.com/pixiv/Mux), a tool to build the UI with [XAML (eXtensible Application Markup Language)](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/) and [data binding](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/data-binding/), and reimplemented the UI of VRoid Studio with Mux.
+- Designed and implemented [Mux](https://github.com/pixiv/Mux), a tool to build the UI with [XAML (eXtensible Application Markup Language)](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/) and [data binding](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/data-binding/), and re-implemented the UI of VRoid Studio with Mux.
 - Minor FLOSS contributions
   - Fixed many bugs of Xamarin.Forms' XAML processor used in Mux. https://github.com/xamarin/Xamarin.Forms/pulls?q=author%3Aakihikodaki+
   - Contributed to XR.Baboon https://github.com/inorton/XR.Baboon/pulls?q=is%3Apr+author%3Aakihikodaki+is%3Aclosed
@@ -100,7 +100,7 @@ I was relocated for developing [VRoid Studio](https://vroid.com/studio), a softw
   - Contributed to UniVRM https://github.com/vrm-c/UniVRM/pull/21
   - Contributed to UniGLTF https://github.com/ousttrue/UniGLTF/pull/15
 
-#### May, 2019 - Augest, 2019
+#### May, 2019 - August, 2019
 
 I was employed as a full-time worker, and had some training in April. Later, I joined the development of [VRoid Mobile](https://vroid.com/mobile), designed for more casual humanoid model creation and including AR feature. I left the team just after its release.
 
@@ -120,7 +120,7 @@ Technically I had never had the "On-the-Job Training", so I completed it by temp
 
 I also contributed to mono/sdb. https://github.com/mono/sdb/pull/58
 
-#### November, 2019 - Februrary, 2020
+#### November, 2019 - February, 2020
 
 I was relocated for [pixiv Sketch](https://sketch.pixiv.net/) team. pixiv Sketch is a social network where users can casually post drawings (i.e. it is totally fine to post incomplete works). It has drawing tools and a live broadcast feature.
 
@@ -128,9 +128,9 @@ I had no particular job to do, so I just did any technical things the others don
 
 pixiv Sketch had a *backend* server application providing RESTful APIs representing its resources and *frontends* providing the UI. Such a combination is called Backend-for-Frontend, or BFF. The backend was a Ruby on Rails application, and the frontends were Web, Android, and iOS applications.
 
-I modified the WebRTC library for additional features on iOS like screencasting with audio and an extra audio configuration. https://github.com/pixiv/webrtc
+I modified the WebRTC library for additional features on iOS like screen-casting with audio and an extra audio configuration. https://github.com/pixiv/webrtc
 
-#### March, 2020 - Februrary, 2021
+#### March, 2020 - February, 2021
 
 The backend and the Web frontend of pixiv Sketch was assigned to me. I focused on reliability.
 
