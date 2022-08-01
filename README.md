@@ -6,19 +6,22 @@
 - nekomanma@pixiv.com (the first email address I got at pixiv Inc.)
 - nekomanma@pixiv.co.jp (the second email address I got at pixiv Inc.)
 
+## My current identities
+
+- akihiko.odaki@gmail.com (personal email address)
+- odaki@rsg.ci.i.u-tokyo.ac.jp (email address at Shioya laboratory)
+- akihiko.odaki@daynix.com (email address at Daynix)
+- [fn_aki@pawoo.net](https://pawoo.net/fn_aki) (Mastodon)
+- [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) (Matrix)
+- aodaki#7967 (Discord)
+- [@aodaki](https://twitter.com/aodaki) (Twitter)
+
 ## Telling Something to Me
 
 If you thank me or something, just please give a star on GitHub.
 If you have a question on this document, comment on GitHub.
 
-If you want to tell me anything else or if you don't want to use GitHub:
-- email to akihiko.odaki@gmail.com,
-- mention [fn_aki@pawoo.net](https://pawoo.net/fn_aki) on Mastodon,
-- send a message to [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) via Matrix,
-- send a message to akihiko.odaki@gmail.com on Google Hangouts, or
-- aodaki#7967 on Discord.
-
-I have a Twitter account, but I may not be that active. https://twitter.com/aodaki
+If you want to tell me anything else or if you don't want to use GitHub, use one of the current identities shown the above.
 
 I'm kind of talkative so feel free.
 
@@ -139,7 +142,7 @@ The backend interacted with [MySQL](https://www.mysql.com/) and Redis. The Web f
 - Contributed to ClusterWS/cWS https://github.com/ClusterWS/cWS/pull/35
 - Debugged and patched Mozilla Firefox to fix CSRF. https://bugzilla.mozilla.org/show_bug.cgi?id=1605305
 
-#### March, 2021
+### March, 2021
 
 I become an unemployed FLOSS contributor again.
 
@@ -150,6 +153,10 @@ I become an unemployed FLOSS contributor again.
 
 Actually I'm working on QEMU on macOS. Especially I'm focusing on Virgil 3D, a bridge to expose host OpenGL to guest, and Apple Silicon/M1.
 https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5
+
+### April, 2022 - Shioya Laboratory, Department of Creative Informatics, Graduate School of Information Science and Technology, The University of Tokyo
+
+### August, 2022 - Daynix Computing Ltd.
 
 ## My Name
 
