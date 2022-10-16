@@ -1,11 +1,5 @@
 # Akihiko Odaki (小田喜 陽彦)
 
-## Old identities
-
-- akihiko.odaki.4i@stu.hosei.ac.jp (when I was a student of Hosei University)
-- nekomanma@pixiv.com (the first email address I got at pixiv Inc.)
-- nekomanma@pixiv.co.jp (the second email address I got at pixiv Inc.)
-
 ## My current identities
 
 - akihiko.odaki@gmail.com (personal email address)
@@ -15,6 +9,15 @@
 - [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) (Matrix)
 - aodaki#7967 (Discord)
 - [@aodaki](https://twitter.com/aodaki) (Twitter)
+- [@akihiko.odaki](https://gitlab.com/akihiko.odaki) (GitLab)
+- [@akihiko.odaki](https://gitlab.freedesktop.org/akihiko.odaki/) (freedesktop.org GitLab)
+- [@akihiko.odaki](https://gitlab.gnome.org/akihiko.odaki) (GNOME GitLab)
+
+## Old identities
+
+- akihiko.odaki.4i@stu.hosei.ac.jp (when I was a student of Hosei University)
+- nekomanma@pixiv.com (the first email address I got at pixiv Inc.)
+- nekomanma@pixiv.co.jp (the second email address I got at pixiv Inc.)
 
 ## Telling Something to Me
 
@@ -92,7 +95,9 @@ Speaking of Pawoo-specific feature development, I assisted the full-time workers
 
 #### July, 2018 - March, 2019
 
-I was relocated for developing [VRoid Studio](https://vroid.com/studio), a software to build humanoid 3D models without special expertise. My involvement began just before its first release. My focus was to improve the productivity of the team because the relocation was regarded as "temporal" in the first place.
+I was relocated for developing [VRoid Studio](https://vroid.com/studio), a software to build humanoid 3D models without special expertise. For details of the application, see [a presentation given at _SA '21: SIGGRAPH Asia 2021 Real-Time Live!_](https://dl.acm.org/doi/10.1145/3478511.3491311)
+
+My involvement began just before its first release. My focus was to improve the productivity of the team because the relocation was regarded as "temporal" in the first place.
 
 - Constructed and maintained a CI infrastructure with [Unity](https://unity.com), Linux, and [GitLab CI](https://docs.gitlab.com/ee/ci/). GitLab CI was managed by a colleague so I wrote application-specific code and communicated with him for the integration.
 - Designed and implemented [Mux](https://github.com/pixiv/Mux), a tool to build the UI with [XAML (eXtensible Application Markup Language)](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/) and [data binding](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/data-binding/), and re-implemented the UI of VRoid Studio with Mux.
