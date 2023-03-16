@@ -12,6 +12,7 @@
 - [@akihiko.odaki](https://gitlab.com/akihiko.odaki) (GitLab)
 - [@akihiko.odaki](https://gitlab.freedesktop.org/akihiko.odaki/) (freedesktop.org GitLab)
 - [@akihiko.odaki](https://gitlab.gnome.org/akihiko.odaki) (GNOME GitLab)
+- [AEDC03C9AF734F2EC26A7BFFA4BAEAA73536753C at hkps://keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=AEDC03C9AF734F2EC26A7BFFA4BAEAA73536753C&fingerprint=on&op=index) (PGP key for akihiko.odaki@daynix.com)
 
 ## Old identities
 
