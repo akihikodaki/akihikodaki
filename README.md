@@ -3,7 +3,7 @@
 ## My current identities
 
 - akihiko.odaki@gmail.com (personal email address)
-- odaki@rsg.ci.i.u-tokyo.ac.jp (email address at Shioya laboratory)
+- odaki@rsg.ci.i.u-tokyo.ac.jp (email address at Shioya Laboratory)
 - akihiko.odaki@daynix.com (email address at Daynix)
 - [fn_aki@mstdn.maud.io](https://mstdn.maud.io/fn_aki) (Mastodon)
 - [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) (Matrix)
@@ -17,26 +17,26 @@
 
 ## Old identities
 
-- akihiko.odaki.4i@stu.hosei.ac.jp (when I was a student of Hosei University)
+- akihiko.odaki.4i@stu.hosei.ac.jp (when I was a student at Hosei University)
 - nekomanma@pixiv.com (the first email address I got at pixiv Inc.)
 - nekomanma@pixiv.co.jp (the second email address I got at pixiv Inc.)
 - [fn_aki@pawoo.net](https://pawoo.net/fn_aki) (Mastodon)
 
 ## Telling Something to Me
 
-If you thank me or something, just please give a star on GitHub.
+If you thank me or something, just please give me a star on GitHub.
 If you have a question on this document, comment on GitHub.
 
-If you want to tell me anything else or if you don't want to use GitHub, use one of the current identities shown the above.
+If you want to tell me anything else or if you don't want to use GitHub, use one of the current identities shown above.
 
 I'm kind of talkative so feel free.
 
 ## Characteristics
 
-I'm a human so I have human characteristics (e.g. I operate best in 20-30 celsius degree). Other characteristics are:
+I'm a human so I have human characteristics (e.g. I operate best at 20-30 Celsius degrees). Other characteristics are:
 
 - I have never left Japan and am optimized for its environment. I'm a native Japanese speaker.
-- I have English language ability sufficient to write this.
+- I have an English language ability sufficient to write this.
 - I prefer FLOSS.
 - I'm kind of a low-level programmer and familiar with C language. I occasionally wrote MIPS, ARM, and C++. I read x86-64 for debugging but my understanding is kind of fragile.
 - I have some knowledge of UI programming paradigms since I learned them to build [Mux](https://github.com/pixiv/Mux), a UI programming thing for Unity, and coded some Web applications.
@@ -48,9 +48,9 @@ I'm a human so I have human characteristics (e.g. I operate best in 20-30 celsiu
 
 ## Timeline
 
-### Before July, 2017
+### Before July 2017
 
-I was a occasional FLOSS contributor.
+I was an occasional FLOSS contributor.
 
 #### Low-level
 
@@ -80,23 +80,23 @@ I was a occasional FLOSS contributor.
 
 ### pixiv Inc.
 
-#### July, 2017 - June, 2018
+#### July 2017 - June 2018
 
 I was employed as a part-time worker for developing [Pawoo](https://pawoo.net/), a variant of [Mastodon](https://joinmastodon.org/), a federated microblogging software.
 
-Mastodon is Web application and built with [Ruby on Rails](https://rubyonrails.org/). It has RESTful APIs and [ActivityPub](https://www.w3.org/TR/activitypub/), a federation protocol. The UI is built with [React](https://reactjs.org/) and its state is managed with [Redux](https://redux.js.org/). It stores data to [PostgreSQL](https://www.postgresql.org/) and [Redis](https://redis.io/). I developed for all of its subsystems.
+Mastodon is a Web application built with [Ruby on Rails](https://rubyonrails.org/). It has RESTful APIs and [ActivityPub](https://www.w3.org/TR/activitypub/), a federation protocol. The UI is built with [React](https://reactjs.org/) and its state is managed with [Redux](https://redux.js.org/). It stores data in [PostgreSQL](https://www.postgresql.org/) and [Redis](https://redis.io/). My interest included all of its subsystems.
 
 Speaking of Pawoo-specific feature development, I assisted the full-time workers of the team and developed a feature relatively independent of the other aspects of the software.
 
 - Contributed to [Mastodon](https://github.com/tootsuite/mastodon/pulls?q=author%3Aakihikodaki).
 - Contributed to [rspec-sidekiq](https://github.com/philostler/rspec-sidekiq/pull/141).
-- Developed Pawoo Music, a discontinued variant of Mastodon. I was responsible for a feature to generate a music video suitable for video-sharing websites like YouTube and Twitter. The feature had the interactive preview and the actual video was generated on the server.
+- Developed Pawoo Music, a discontinued variant of Mastodon. I was responsible for a feature to generate a music video suitable for video-sharing websites like YouTube and Twitter. The feature had an interactive preview and the actual video was generated on the server.
   - Contributed to [PixiJS](https://github.com/pixijs/pixijs/pulls?q=is%3Apr+author%3Aakihikodaki+is%3Aclosed)
   - Contributed to [headless-gl](https://github.com/stackgl/headless-gl/pull/115)
   - I developed [the application](https://github.com/pixiv/musicvideo-generator) and determined the server configurations for accelerated graphics.
 - Suggested and conducted an experiment to integrate Mastodon and [Matrix](https://matrix.org), although it was suspended before yielding any results and canceled later. Contributed to Matrix (https://github.com/matrix-org/matrix-react-sdk/pulls?q=is%3Apr+author%3Aakihikodaki+is%3Aclosed) in the process.
 
-#### July, 2018 - March, 2019
+#### July 2018 - March 2019
 
 I was relocated for developing [VRoid Studio](https://vroid.com/studio), a software to build humanoid 3D models without special expertise. For details of the application, see [a presentation given at _SA '21: SIGGRAPH Asia 2021 Real-Time Live!_](https://dl.acm.org/doi/10.1145/3478511.3491311)
 
@@ -105,35 +105,35 @@ My involvement began just before its first release. My focus was to improve the 
 - Constructed and maintained a CI infrastructure with [Unity](https://unity.com), Linux, and [GitLab CI](https://docs.gitlab.com/ee/ci/). GitLab CI was managed by a colleague so I wrote application-specific code and communicated with him for the integration.
 - Designed and implemented [Mux](https://github.com/pixiv/Mux), a tool to build the UI with [XAML (eXtensible Application Markup Language)](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/) and [data binding](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/data-binding/), and re-implemented the UI of VRoid Studio with Mux.
 - Minor FLOSS contributions
-  - Fixed many bugs of Xamarin.Forms' XAML processor used in Mux. https://github.com/xamarin/Xamarin.Forms/pulls?q=author%3Aakihikodaki+
+  - Fixed many bugs in Xamarin.Forms' XAML processor used in Mux. https://github.com/xamarin/Xamarin.Forms/pulls?q=author%3Aakihikodaki+
   - Contributed to XR.Baboon https://github.com/inorton/XR.Baboon/pulls?q=is%3Apr+author%3Aakihikodaki+is%3Aclosed
   - Contributed to docfx https://github.com/dotnet/docfx/pulls?q=is%3Apr+author%3Aakihikodaki+is%3Aclosed
   - Contributed to UniVRM https://github.com/vrm-c/UniVRM/pull/21
   - Contributed to UniGLTF https://github.com/ousttrue/UniGLTF/pull/15
 
-#### May, 2019 - August, 2019
+#### May 2019 - August 2019
 
-I was employed as a full-time worker, and had some training in April. Later, I joined the development of [VRoid Mobile](https://vroid.com/mobile), designed for more casual humanoid model creation and including AR feature. I left the team just after its release.
+I was employed as a full-time worker and had some training in April. Later, I joined the development of [VRoid Mobile](https://vroid.com/mobile), designed for more casual humanoid model creation and including an AR feature. I left the team just after its release.
 
-- Designed the architecture of the application as whole. (It was modeled as MVVM and integrated subsystems designed and implemented independently.)
+- Designed the architecture of the application as a whole. (It was modeled as MVVM and integrated subsystems designed and implemented independently.)
 - Clicked the "New Project" button of Unity and wrote the integration of different subsystems and many of its UI components (of course in Mux).
 - Ported the CI infrastructure developed for VRoid Studio.
-- Instructed other developers to enforce the application architecture and Mux best practices and to provide some generic programming advices. My intention was to maintain the steady development until the release and after I left.
+- Instructed other developers to enforce the application architecture and Mux best practices and to provide some generic programming advice. I intended to maintain the steady development until the release and after I left.
 - Minor FLOSS contributions
   - Contributed to bitrise/steps-cache-push https://github.com/bitrise-steplib/steps-cache-push/pull/32
   - Contributed to better-apk-expansion https://github.com/auxility/better-apk-expansion/pull/16
 
-#### September, 2019 - October, 2019
+#### September 2019 - October 2019
 
 Technically I had never had the "On-the-Job Training", so I completed it by temporarily working for [ImageFlux](https://www.sakura.ad.jp/services/imageflux/) team.
 
-[WebRTC bindings for .NET, mainly targeting for Unity](https://github.com/pixiv/webrtc) are its results. The library avoids common pitfalls of such bindings like multi-platform support and garbage-collector awareness.
+[WebRTC bindings for .NET, mainly targeting Unity](https://github.com/pixiv/webrtc) are its results. The library avoids common pitfalls of such bindings like multi-platform support and garbage-collector awareness.
 
 I also contributed to mono/sdb. https://github.com/mono/sdb/pull/58
 
-#### November, 2019 - February, 2020
+#### November 2019 - February 2020
 
-I was relocated for [pixiv Sketch](https://sketch.pixiv.net/) team. pixiv Sketch is a social network where users can casually post drawings (i.e. it is totally fine to post incomplete works). It has drawing tools and a live broadcast feature.
+I was relocated to the [pixiv Sketch](https://sketch.pixiv.net/) team. pixiv Sketch is a social network where users can casually post drawings (i.e. it is totally fine to post incomplete works). It has drawing tools and a live broadcast feature.
 
 I had no particular job to do, so I just did any technical things the others don't do.
 
@@ -141,16 +141,16 @@ pixiv Sketch had a *backend* server application providing RESTful APIs represent
 
 I modified the WebRTC library for additional features on iOS like screen-casting with audio and an extra audio configuration. https://github.com/pixiv/webrtc
 
-#### March, 2020 - February, 2021
+#### March 2020 - February 2021
 
-The backend and the Web frontend of pixiv Sketch was assigned to me. I focused on reliability.
+The backend and the Web frontend of pixiv Sketch were assigned to me. I focused on reliability.
 
 The backend interacted with [MySQL](https://www.mysql.com/) and Redis. The Web frontend provided the UI with React with its state managed with [Fluxible](https://fluxible.io).
 
 - Contributed to ClusterWS/cWS https://github.com/ClusterWS/cWS/pull/35
 - Debugged and patched Mozilla Firefox to fix CSRF. https://bugzilla.mozilla.org/show_bug.cgi?id=1605305
 
-### March, 2021
+### March 2021
 
 I become an unemployed FLOSS contributor again.
 
@@ -159,12 +159,12 @@ I become an unemployed FLOSS contributor again.
 - UTM https://github.com/utmapp/UTM/pull/2361
 - Mutter https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1737
 
-Actually I'm working on QEMU on macOS. Especially I'm focusing on Virgil 3D, a bridge to expose host OpenGL to guest, and Apple Silicon/M1.
+I'm working on QEMU on macOS. Especially I'm focusing on Virgil 3D, a bridge to expose host OpenGL to the guest, and Apple Silicon/M1.
 https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5
 
-### April, 2022 - Shioya Laboratory, Department of Creative Informatics, Graduate School of Information Science and Technology, The University of Tokyo
+### April 2022 - Shioya Laboratory, Department of Creative Informatics, Graduate School of Information Science and Technology, The University of Tokyo
 
-### August, 2022 - Daynix Computing Ltd.
+### August 2022 - Daynix Computing Ltd.
 
 ## My Name
 
@@ -179,4 +179,4 @@ Odaki is my family name. The literal meaning probably just doesn't make sense, b
 - Da (田) means "rice field".
 - Ki (喜) means "happy".
 
-So it may mean "I'm happy with a small rice field" or I don't know. Indeed, I prefer to get things done with smaller code base.
+So it may mean "I'm happy with a small rice field" or I don't know. Indeed, I prefer to get things done with a smaller code base.
