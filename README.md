@@ -5,7 +5,7 @@
 - akihiko.odaki@gmail.com (personal email address)
 - odaki@rsg.ci.i.u-tokyo.ac.jp (email address at Shioya Laboratory)
 - akihiko.odaki@daynix.com (email address at Daynix)
-- [fn_aki@mstdn.maud.io](https://mstdn.maud.io/fn_aki) (Mastodon)
+- [@fn_aki@mstdn.maud.io](https://mstdn.maud.io/@fn_aki) (Mastodon)
 - [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) (Matrix)
 - aodaki#7967 (Discord)
 - [@aodaki](https://twitter.com/aodaki) (Twitter)
