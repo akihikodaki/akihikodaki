@@ -164,7 +164,7 @@ https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5
 
 ### August 2022 - May 2025 - Daynix Computing Ltd.
 
-I contributed to several open-source projects related to virtualization.
+I contributed to several open-source projects related to virtualization:
 
 - QEMU https://gitlab.com/qemu-project/qemu/-/commits/master?author=Akihiko%20Odaki
 - Linux https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=akihiko.odaki%40daynix.com
@@ -172,6 +172,23 @@ I contributed to several open-source projects related to virtualization.
 - AutoHCK-Installer https://github.com/HCK-CI/AutoHCK-Installer/commits/main/?author=akihikodaki
 - HLK-Setup-Scripts https://github.com/HCK-CI/HLK-Setup-Scripts/commits/master/?author=akihikodaki
 - rtoolsHCK https://github.com/HCK-CI/rtoolsHCK/commits/master/?author=akihikodaki
+- meson https://github.com/mesonbuild/meson/commits/master/?author=akihikodaki
+- b4 https://github.com/mricon/b4/commits/master/?author=akihikodaki
+- DPDK Test Suite https://git.dpdk.org/tools/dts/log/?qt=author&q=akihiko.odaki%40daynix.com
+- Linux Test Suite https://github.com/linux-test-project/ltp/commits/master/?author=akihikodaki
+- libvirt https://gitlab.com/libvirt/libvirt/-/commits/master?author=Akihiko%20Odaki
+- spice-common https://gitlab.freedesktop.org/spice/spice-common/-/commits/master?author=Akihiko%20Odaki
+- spice-protocol https://gitlab.freedesktop.org/spice/spice-protocol/-/commits/master?author=Akihiko%20Odaki
+- SPICE vd-agent https://gitlab.freedesktop.org/spice/win32/vd_agent/-/commits/master?author=Akihiko%20Odaki
+- osinfo-db https://gitlab.com/libosinfo/osinfo-db/-/commits/main?author=Akihiko%20Odaki
+- rubocop https://github.com/rubocop/rubocop/commits/master/?author=akihikodaki
+- sorbet https://github.com/sorbet/sorbet/commits/master/?author=akihikodaki
+
+I also made a few presentations:
+
+- Reducing the Overhead of Network Virtualization: Software and Hardware Solutions, Linux Plumbers Conference 2024 https://lpc.events/event/18/contributions/1963/
+- TCG Plugin in Practice: A Case of Microarchitecture Research, KVM Forum 2024 https://pretalx.com/kvm-forum-2024/talk/CYEGXD/
+- Unleashing SR-IOV on Virtual Machines, KVM Forum 2024 https://pretalx.com/kvm-forum-2024/talk/ZA8KPD/
 
 ### April 2022 - Shioya Laboratory, Department of Creative Informatics, Graduate School of Information Science and Technology, The University of Tokyo
 
