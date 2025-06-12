@@ -4,7 +4,6 @@
 
 - akihiko.odaki@gmail.com (personal email address)
 - odaki@rsg.ci.i.u-tokyo.ac.jp (email address at Shioya Laboratory)
-- akihiko.odaki@daynix.com (email address at Daynix)
 - [@fn_aki@mstdn.maud.io](https://mstdn.maud.io/@fn_aki) (Mastodon)
 - [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) (Matrix)
 - aodaki#7967 (Discord)
@@ -21,6 +20,7 @@
 - nekomanma@pixiv.com (the first email address I got at pixiv Inc.)
 - nekomanma@pixiv.co.jp (the second email address I got at pixiv Inc.)
 - [fn_aki@pawoo.net](https://pawoo.net/fn_aki) (Mastodon)
+- akihiko.odaki@daynix.com (email address at Daynix)
 
 ## Telling Something to Me
 
@@ -38,7 +38,7 @@ I'm a human so I have human characteristics (e.g. I operate best at 20-30 Celsiu
 - I have never left Japan and am optimized for its environment. I'm a native Japanese speaker.
 - I have an English language ability sufficient to write this.
 - I prefer FLOSS.
-- I'm kind of a low-level programmer and familiar with C language. I occasionally wrote MIPS, ARM, and C++. I read x86-64 for debugging but my understanding is kind of fragile.
+- I'm kind of a low-level programmer and familiar with the C language. I occasionally wrote MIPS, ARM, and C++. I read x86-64 for debugging but my understanding is kind of fragile.
 - I have some knowledge of UI programming paradigms since I learned them to build [Mux](https://github.com/pixiv/Mux), a UI programming thing for Unity, and coded some Web applications.
 - I use GNU/Linux with GNOME.
 - I prefer to work in a team because humans are interesting by nature and a team also helps me determine my role. However, it is also fine for me to work alone.
@@ -152,9 +152,9 @@ The backend interacted with [MySQL](https://www.mysql.com/) and Redis. The Web f
 
 ### March 2021
 
-I become an unemployed FLOSS contributor again.
+I became an unemployed FLOSS contributor again.
 
-- QEMU https://gitlab.com/search?utf8=✓&search=Akihiko+Odaki&group_id=3038080&project_id=11167699&scope=commits&search_code=false&snippets=false&repository_ref=master&nav_source=navbar
+- QEMU https://gitlab.com/qemu-project/qemu/-/commits/master?author=Akihiko%20Odaki
 - virglrenderer https://gitlab.freedesktop.org/virgl/virglrenderer/-/merge_requests?scope=all&utf8=✓&state=all&author_username=akihiko.odaki
 - UTM https://github.com/utmapp/UTM/pull/2361
 - Mutter https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1737
@@ -162,9 +162,18 @@ I become an unemployed FLOSS contributor again.
 I'm working on QEMU on macOS. Especially I'm focusing on Virgil 3D, a bridge to expose host OpenGL to the guest, and Apple Silicon/M1.
 https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5
 
-### April 2022 - Shioya Laboratory, Department of Creative Informatics, Graduate School of Information Science and Technology, The University of Tokyo
+### August 2022 - May 2025 - Daynix Computing Ltd.
 
-### August 2022 - Daynix Computing Ltd.
+I contributed to several open-source projects related to virtualization.
+
+- QEMU https://gitlab.com/qemu-project/qemu/-/commits/master?author=Akihiko%20Odaki
+- Linux https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=akihiko.odaki%40daynix.com
+- AutoHCK https://github.com/HCK-CI/AutoHCK/commits/master/?author=akihikodaki
+- AutoHCK-Installer https://github.com/HCK-CI/AutoHCK-Installer/commits/main/?author=akihikodaki
+- HLK-Setup-Scripts https://github.com/HCK-CI/HLK-Setup-Scripts/commits/master/?author=akihikodaki
+- rtoolsHCK https://github.com/HCK-CI/rtoolsHCK/commits/master/?author=akihikodaki
+
+### April 2022 - Shioya Laboratory, Department of Creative Informatics, Graduate School of Information Science and Technology, The University of Tokyo
 
 ## My Name
 
