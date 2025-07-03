@@ -35,7 +35,7 @@ I'm kind of talkative so feel free.
 
 I'm a human so I have human characteristics (e.g. I operate best at 20-30 Celsius degrees). Other characteristics are:
 
-- I have never left Japan and am optimized for its environment. I'm a native Japanese speaker.
+- I spent most time in Japan and am optimized for its environment. I'm a native Japanese speaker.
 - I have an English language ability sufficient to write this.
 - I prefer FLOSS.
 - I'm kind of a low-level programmer and familiar with the C language. I occasionally wrote MIPS, ARM, and C++. I read x86-64 for debugging but my understanding is kind of fragile.
