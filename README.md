@@ -20,7 +20,7 @@
 - nekomanma@pixiv.com (the first email address I got at pixiv Inc.)
 - nekomanma@pixiv.co.jp (the second email address I got at pixiv Inc.)
 - [fn_aki@pawoo.net](https://pawoo.net/fn_aki) (Mastodon)
-- akihiko.odaki@daynix.com (email address at Daynix)
+- akihiko.odaki@daynix.com, aodaki@redhat.com (email address at Daynix)
 
 ## Telling Something to Me
 
