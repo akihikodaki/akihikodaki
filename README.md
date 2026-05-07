@@ -2,8 +2,6 @@
 
 ## My current identities
 
-- akihiko.odaki@gmail.com (personal email address)
-- odaki@rsg.ci.i.u-tokyo.ac.jp (email address at Shioya Laboratory)
 - [@fn_aki@mstdn.maud.io](https://mstdn.maud.io/@fn_aki) (Mastodon)
 - [@aodaki:matrix.org](https://matrix.to/#/@aodaki:matrix.org) (Matrix)
 - aodaki#7967 (Discord)
@@ -12,7 +10,7 @@
 - [LinkedIn](https://www.linkedin.com/in/aodaki/)
 - [@akihiko.odaki](https://gitlab.freedesktop.org/akihiko.odaki/) (freedesktop.org GitLab)
 - [@akihiko.odaki](https://gitlab.gnome.org/akihiko.odaki) (GNOME GitLab)
-- [AEDC03C9AF734F2EC26A7BFFA4BAEAA73536753C at hkps://keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=AEDC03C9AF734F2EC26A7BFFA4BAEAA73536753C&fingerprint=on&op=index) (PGP key for akihiko.odaki@daynix.com)
+- [AEDC03C9AF734F2EC26A7BFFA4BAEAA73536753C at hkps://keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=AEDC03C9AF734F2EC26A7BFFA4BAEAA73536753C&fingerprint=on&op=index) (PGP key and email addresses)
 
 ## Old identities
 
